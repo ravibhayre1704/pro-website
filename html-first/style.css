@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.main{
+    width: 1000px;
+    background: url("tr-1.jpg");
+    background-position: center;
+    background-size:cover;
+    height: 550px;
+
+}
+.logo{
+    color: peru;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 20px;
+    padding-top: 10px;
+    text-decoration: underline;
+    padding-top: 30px;
+}
+.menue{
+    height: 100px;
+    width: 400px;
+    float: right;
+    
+}
+ul{
+    float: right;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+      
+
+}
+ul li{
+    list-style: none;
+    margin-left: 15px ;
+    margin-top: 5px;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: Arial;
+    font-size: 15px;
+}
+ul li a:hover{
+    color: peru;
+}
+.search{
+    float: left;
+    margin-left: 250px;
+    border: none;
+    padding: 40px;
+    height: 25px;
+    font-size: 15px;
+    top: 20px;
+    background: transparent;
+}
+.btn{
+    background: peru;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    margin-top: 0px;
+}
+.per{
+    margin-left: 15px;
+    font-size: 20px;
+}
+.form h3{
+    margin-right: 100px;
+    color: peru;
+}
+h2{
+    margin-left: 15px;
+    
+}
+
+.srch{
+    height: 30px;
+    background: transparent;
+    margin: none;
+    outline: none;
+    top:13px;
+    color: blue;
+    
+
+    
+}
+.cn{
+    margin-left: 15px;
+    color:white;
+    background-color:  peru;
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.content{
+    color: bisque;
+}
+.cn:hover{
+    background-color: white;
+
+}
+.content span{
+    color: peru;
+}
+.bt{
+    background-color:  peru;
+}
+.form{
+    width:180px;
+    height:325px;
+    background-color:black;
+    position: absolute;
+    top:150px;
+    left: 800px;
+    border-radius: 15px; 
+}
+.form h2{
+    text-align: center;
+    color: peru;
+    font-size: 20px;
+    margin: 2px;
+    padding: 8px;
+    
+}
+
+.form input{
+    width: 180px;
+    height: 40px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 1px solid  peru;
+    border-top: none;
+    border-top: none;
+    margin-top: 10px;
+    font-family:  monospace;
+    color: beige;
+
+}
+.bt{
+    width:150px;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 14px;
+    margin-top: 10px;
+
+}
+.from a{
+    text-align: center;
+}
+.bt:hover{
+    background: lightyellow;
+    color: peru;
+}
+.link{
+    color: beige;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+.search input{
+    margin-top:5px;
+}
+.icon ion-icon{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: beige;
+    
+}
+.icon ion-icon:hover{
+    color:  peru;
+}
+.well{
+    margin-top: 35px;
+    margin-left: 150px;
+    font-family:Arial;
+    text-transform:capitalize;
+    font-size: 50px;
+    color:  peru;
+    text-shadow: black;
+    text-decoration: underline;
+    text-shadow: 2px 5px black;
+}
+.main2{
+
+    
+    background: url("4.jpg");
+    height: 550px;
+    width: 1000px;
+    
+
+
+}
+.abt{
+    height: 200px;
+    width: 200px;
+    background-color:  peru;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    float: left;
+}
+.srv{
+    height: 200px;
+    width: 200px;
+    background-color:whitesmoke;
+    left: 200px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 20px;
+    float: right;
+    margin-top:20px;
+}
+.con{
+    height: 200px;
+    width: 200px;
+    background-color:palevioletred;
+    left: 200px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 20px;
+    float: right;
+    margin-top:20px;
+}
+.degn{
+    height: 200px;
+    width: 200px;
+    background-color:greenyellow;
+    left: 200px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 15px;
+    float: right;
+    margin-top:20px;
+    padding-right: 15px;
+}
+
+
+
+
+
